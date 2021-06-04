@@ -1,5 +1,5 @@
 import urllib
-database_connection="mongodb+srv://root:"+urllib.parse.quote('Pragya@123')+"@cluster0.zh2ni.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+database_connection="mongodb+srv://root:"+urllib.parse.quote('Password')+"@cluster0.zh2ni.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 db_name="Flinklin"
 collection_name="links"
 limit=5000
